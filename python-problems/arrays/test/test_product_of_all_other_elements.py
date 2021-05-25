@@ -3,7 +3,7 @@ from unittest import TestCase
 from arrays.src.product_of_all_other_elements import products
 
 
-class Test(TestCase):
+class ProductOfAllOtherElementsInArrayTest(TestCase):
     def test_products(self):
         nums_set_one = [1,2,3,4,5]
         nums_set_two = [2,4,6,7]

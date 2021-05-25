@@ -9,7 +9,7 @@ pytest = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.0"
+python_version = "3.8.0"
 
 [scripts]
 test-unit = "pytest test --disable-pytest-warnings"
